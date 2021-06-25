@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018013733363",
+    "project_id": "englishwordpad",
+    "firebase_url": "https://englishwordpad-default-rtdb.firebaseio.com",
+    "storage_bucket": "englishwordpad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018013733363:android:71184c48e8b2e7634b0286",
+        "android_client_info": {
+          "package_name": "com.example.englishwordpadassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018013733363-hth3lo1orjqs2o62kc8gcc7to1fpdmhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAarchwQtbScx1pkyLvE_PFbgxo-Dn-KUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018013733363-hth3lo1orjqs2o62kc8gcc7to1fpdmhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
